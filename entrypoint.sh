@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GIB_IN_BYTES="1073741824"
+GIB_IN_BYTES="8589934592"
 
 target="${1:-pi1}"
 image_path="/sdcard/filesystem.img"
